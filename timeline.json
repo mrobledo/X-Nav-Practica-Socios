@@ -1,0 +1,27 @@
+{
+"Msgs":[
+	{"autor": "Maria",
+	"avatar": "images/Maria-avatar.png",
+	"titulo": "Sultan",
+	"contenido": "Me encanta tu perrito!",
+	"fecha": "23/03/2015"},
+
+	{"autor": "Pedro",
+	"avatar": "images/Pedro-avatar.png",
+	"titulo": "Padel",
+	"contenido": "Muy bueno el partido del otro dia! La semana que viene la revancha!",
+	"fecha": "22/03/2015"},
+
+	{"autor": "Juan",
+	"avatar": "images/Juan-avatar.png",
+	"titulo": "Cambio turno",
+	"contenido": "Hola Mariano, El viernes tienes que venir en turno de mañana a trabajar.",
+	"fecha": "22/03/2015"},
+
+	{"autor": "Isabel ",
+	"avatar": "images/Isabel-avatar.png",
+	"titulo": "Cena fin de semana",
+	"contenido": "Mariano, este sabado vamos a quedar para cenar los de clase, ¿Te apuntas?",
+	"fecha": "21/03/2015"}
+	]
+}

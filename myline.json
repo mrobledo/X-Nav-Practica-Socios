@@ -1,0 +1,21 @@
+{
+"Msgs":[
+	{"autor": "Mariano",
+	"avatar": "images/pianobrad-avatar.jpg",
+	"titulo": "Padel",
+	"contenido": "Vale, yo puedo jugar el domingo si te viene bien.",
+	"fecha": "25/03/2015"},
+
+	{"autor": "Mariano",
+	"avatar": "images/pianobrad-avatar.jpg",
+	"titulo": "Cambio turno",
+	"contenido": "Vale Juan, no hay problema.",
+	"fecha": "22/03/2015"},
+
+	{"autor": "Mariano",
+	"avatar": "images/pianobrad-avatar.jpg",
+	"titulo": "Cena fin de semana",
+	"contenido": "Genial! claro que me apunto",
+	"fecha": "21/03/2015"}
+	]
+}

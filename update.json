@@ -1,0 +1,15 @@
+{
+"Msgs":[
+	{"autor": "Pedro",
+	"avatar": "images/Pedro-avatar.png",
+	"titulo": "Padel",
+	"contenido": "Vale el domingo estupendo!",
+	"fecha": "24/03/2015"},
+
+	{"autor": "Isabel",
+	"avatar": "images/Isabel-avatar.png",
+	"titulo": "Cena fin de semana",
+	"contenido": "Estupendo, alli nos vemos",
+	"fecha": "24/03/2015"}
+	]
+}
